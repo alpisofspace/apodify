@@ -1,0 +1,9 @@
+# Core requirements (no optional dependencies required)
+# The script works without any external dependencies
+
+# Optional: For beautiful colored terminal output
+# Install with: pip install -r requirements-dev.txt
+# or: pip install rich
+
+# To install dev dependencies (includes optional enhancements):
+# pip install -r requirements-dev.txt
